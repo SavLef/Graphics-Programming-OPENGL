@@ -1,0 +1,39 @@
+﻿  Vector3.cpp
+  Shadow.cpp
+c:\users\mist\desktop\source\graphicsprogramming\shadow.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\mist\desktop\source\graphicsprogramming\shadow.cpp(81): warning C4018: '>=': signed/unsigned mismatch
+  Scene.cpp
+c:\users\mist\desktop\source\graphicsprogramming\scene.cpp(5): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mist\desktop\source\graphicsprogramming\scene.cpp(98): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\scene.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\scene.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\scene.cpp(214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\scene.cpp(217): warning C4305: '+=': truncation from 'double' to 'float'
+  ProceduralGeneration.cpp
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(215): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(219): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(241): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\proceduralgeneration.cpp(255): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Model.cpp
+c:\users\mist\desktop\source\graphicsprogramming\model.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Input.cpp
+  Camera.cpp
+c:\users\mist\desktop\source\graphicsprogramming\camera.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\camera.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\camera.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\camera.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\camera.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mist\desktop\source\graphicsprogramming\camera.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\Mist\Desktop\source\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\Mist\Desktop\source\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\Mist\Desktop\source\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\Mist\Desktop\source\Debug\SOIL.pdb'; linking object as if no debug info
+  GraphicsProgramming.vcxproj -> C:\Users\Mist\Desktop\source\Debug\GraphicsProgramming.exe
+  GraphicsProgramming.vcxproj -> C:\Users\Mist\Desktop\source\Debug\GraphicsProgramming.pdb (Full PDB)
